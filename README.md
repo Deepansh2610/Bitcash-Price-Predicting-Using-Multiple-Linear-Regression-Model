@@ -1,1 +1,2 @@
-# Predicting-Price-Using-Multiple-Regression-Model
+# Predicting-Price-Using-Multiple-Linear-Regression-Model
+I got the DataSet from Kaggle which had the Opening, Highest, Lowest and Closing Price of the BitCash-Bitcoin Cryptocurrency. I trained a Multiple Linear Regression Model based on 3 factors Opening price, lowest price and highest price, and based on this predicted the closing price of the cryptocurrency. The price was predicted with a 99.9999% accuracy.
